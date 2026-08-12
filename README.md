@@ -133,6 +133,10 @@ The model was evaluated using:
 
 The project includes an interactive Streamlit web application.
 
+### Application Screenshot
+
+![Waste Classification Streamlit Application](app_screenshot.png)
+
 Users can:
 
 - Upload a waste image
